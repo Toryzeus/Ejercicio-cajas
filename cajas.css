@@ -1,0 +1,36 @@
+
+body{ background-color: green;
+    padding: 10px;
+}
+
+.tarjeta{ border-width:2px solid #a1a1a1;
+    border-style: solid;
+    border-color: red;
+    padding-top: 20px; 
+    background:#06791f4d;
+    width:300px;
+    border-radius:25px;
+    -webkit-box-shadow: 0px 3px 11px 18px rgba(255,255,255,1);
+    -moz-box-shadow: 0px 3px 11px 18px rgba(255,255,255,1);
+    box-shadow: 0px 3px 11px 18px rgba(255,255,255,1);
+}
+
+img{width: 300px;}
+
+.titulo{
+    margin-left: 4%;
+    font-size: 39px;
+    
+}
+
+.pie{padding-left: 90px;
+    background-color: rgb(39, 122, 245);
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+a{
+    color: white;
+    text-align: center;}
